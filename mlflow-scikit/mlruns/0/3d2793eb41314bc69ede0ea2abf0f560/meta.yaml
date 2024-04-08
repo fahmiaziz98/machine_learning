@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/0/3d2793eb41314bc69ede0ea2abf0f560/artifacts
+end_time: 1712540750196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d2793eb41314bc69ede0ea2abf0f560
+run_name: brawny-seal-141
+run_uuid: 3d2793eb41314bc69ede0ea2abf0f560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712540750180
+status: 3
+tags: []
+user_id: fahmiaziz

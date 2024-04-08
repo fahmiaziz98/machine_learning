@@ -1,0 +1,12 @@
+name: classifier
+entry_points:
+  main:
+    command: "python mlflow_scikit/src/main.py"
+    parameters:
+      learning_rate: {type: float, default: 0.01}
+      epochs: {type: int, default: 100}
+dependencies:
+  - mlflow
+  - scikit-learn
+  - pandas
+  - poetry

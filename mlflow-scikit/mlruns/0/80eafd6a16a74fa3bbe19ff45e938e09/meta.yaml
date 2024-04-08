@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/0/80eafd6a16a74fa3bbe19ff45e938e09/artifacts
+end_time: 1712540750210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80eafd6a16a74fa3bbe19ff45e938e09
+run_name: thoughtful-pig-321
+run_uuid: 80eafd6a16a74fa3bbe19ff45e938e09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712540750199
+status: 3
+tags: []
+user_id: fahmiaziz

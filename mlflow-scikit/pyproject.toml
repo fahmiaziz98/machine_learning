@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "mlflow-scikit"
+version = "0.1.0"
+description = ""
+authors = ["fahmiaziz98 <fahmiazizfadhil09@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.26.4"
+pandas = "^2.2.1"
+matplotlib = "^3.8.4"
+scikit-learn = "^1.4.1.post1"
+mlflow = "^2.11.3"
+seaborn = "^0.13.2"
+click = "^8.1.7"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.3.0"
+flake8 = "^7.0.0"
+isort = "^5.13.2"
+pylint = "^3.1.0"
+ipykernel = "^6.29.4"
+
+
+[tool.poetry.group.test.dependencies]
+pytest = "^8.1.1"
+faker = "^24.7.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

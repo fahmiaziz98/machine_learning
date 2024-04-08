@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/0/24999d48247f44dabc2f60700ba02572/artifacts
+end_time: 1712541336775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24999d48247f44dabc2f60700ba02572
+run_name: popular-squirrel-79
+run_uuid: 24999d48247f44dabc2f60700ba02572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712541336764
+status: 3
+tags: []
+user_id: fahmiaziz

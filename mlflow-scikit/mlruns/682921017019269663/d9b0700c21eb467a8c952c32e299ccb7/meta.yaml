@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/682921017019269663/d9b0700c21eb467a8c952c32e299ccb7/artifacts
+end_time: 1712500913031
+entry_point_name: ''
+experiment_id: '682921017019269663'
+lifecycle_stage: active
+run_id: d9b0700c21eb467a8c952c32e299ccb7
+run_name: popular-lamb-164
+run_uuid: d9b0700c21eb467a8c952c32e299ccb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712500906857
+status: 4
+tags: []
+user_id: fahmiaziz

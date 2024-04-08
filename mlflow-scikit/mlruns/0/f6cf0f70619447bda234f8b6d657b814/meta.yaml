@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/0/f6cf0f70619447bda234f8b6d657b814/artifacts
+end_time: 1712540984020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6cf0f70619447bda234f8b6d657b814
+run_name: capable-stag-11
+run_uuid: f6cf0f70619447bda234f8b6d657b814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712540984009
+status: 3
+tags: []
+user_id: fahmiaziz

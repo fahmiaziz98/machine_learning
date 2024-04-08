@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/0/5bbe59c296cb478a8520932eab462fd2/artifacts
+end_time: 1712540771486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bbe59c296cb478a8520932eab462fd2
+run_name: magnificent-hen-302
+run_uuid: 5bbe59c296cb478a8520932eab462fd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712540771471
+status: 3
+tags: []
+user_id: fahmiaziz

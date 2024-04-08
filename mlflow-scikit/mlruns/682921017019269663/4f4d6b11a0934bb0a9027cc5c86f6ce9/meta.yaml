@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/682921017019269663/4f4d6b11a0934bb0a9027cc5c86f6ce9/artifacts
+end_time: 1712501099331
+entry_point_name: ''
+experiment_id: '682921017019269663'
+lifecycle_stage: active
+run_id: 4f4d6b11a0934bb0a9027cc5c86f6ce9
+run_name: useful-ray-695
+run_uuid: 4f4d6b11a0934bb0a9027cc5c86f6ce9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712501093578
+status: 4
+tags: []
+user_id: fahmiaziz

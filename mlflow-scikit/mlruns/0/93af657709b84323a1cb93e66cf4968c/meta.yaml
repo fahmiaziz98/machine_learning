@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/0/93af657709b84323a1cb93e66cf4968c/artifacts
+end_time: 1712540771502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93af657709b84323a1cb93e66cf4968c
+run_name: thundering-fawn-21
+run_uuid: 93af657709b84323a1cb93e66cf4968c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712540771489
+status: 3
+tags: []
+user_id: fahmiaziz

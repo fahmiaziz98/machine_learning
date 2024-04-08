@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/682921017019269663/30d288bc76ef488abf58be0e3d576024/artifacts
+end_time: 1712500300116
+entry_point_name: ''
+experiment_id: '682921017019269663'
+lifecycle_stage: active
+run_id: 30d288bc76ef488abf58be0e3d576024
+run_name: bemused-goat-645
+run_uuid: 30d288bc76ef488abf58be0e3d576024
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712500300105
+status: 4
+tags: []
+user_id: fahmiaziz

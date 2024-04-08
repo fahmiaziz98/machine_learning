@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/0/2beb1e2d33b94ca0abd3eaf13a32c67a/artifacts
+end_time: 1712540698860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2beb1e2d33b94ca0abd3eaf13a32c67a
+run_name: lyrical-fly-314
+run_uuid: 2beb1e2d33b94ca0abd3eaf13a32c67a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712540698841
+status: 4
+tags: []
+user_id: fahmiaziz

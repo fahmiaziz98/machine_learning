@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/0/4baac6837899411683485e82f6d0b702/artifacts
+end_time: 1712541336761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4baac6837899411683485e82f6d0b702
+run_name: rumbling-bee-123
+run_uuid: 4baac6837899411683485e82f6d0b702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712541336747
+status: 3
+tags: []
+user_id: fahmiaziz

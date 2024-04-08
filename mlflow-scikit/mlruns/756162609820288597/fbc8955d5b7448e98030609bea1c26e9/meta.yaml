@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/756162609820288597/fbc8955d5b7448e98030609bea1c26e9/artifacts
+end_time: 1712540750644
+entry_point_name: ''
+experiment_id: '756162609820288597'
+lifecycle_stage: active
+run_id: fbc8955d5b7448e98030609bea1c26e9
+run_name: rumbling-fox-540
+run_uuid: fbc8955d5b7448e98030609bea1c26e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712540750609
+status: 4
+tags: []
+user_id: fahmiaziz

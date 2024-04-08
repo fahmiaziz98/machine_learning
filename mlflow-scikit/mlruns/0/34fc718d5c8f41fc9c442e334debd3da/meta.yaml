@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/0/34fc718d5c8f41fc9c442e334debd3da/artifacts
+end_time: 1712541002405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34fc718d5c8f41fc9c442e334debd3da
+run_name: bouncy-ram-416
+run_uuid: 34fc718d5c8f41fc9c442e334debd3da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712541002395
+status: 3
+tags: []
+user_id: fahmiaziz

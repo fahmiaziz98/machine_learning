@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/0/95e82317166f472e8dfce38ac59592b6/artifacts
+end_time: 1712541203634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95e82317166f472e8dfce38ac59592b6
+run_name: stately-doe-122
+run_uuid: 95e82317166f472e8dfce38ac59592b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712541203621
+status: 3
+tags: []
+user_id: fahmiaziz

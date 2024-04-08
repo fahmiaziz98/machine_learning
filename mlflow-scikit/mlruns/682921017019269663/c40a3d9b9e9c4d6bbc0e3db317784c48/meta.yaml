@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fahmiaziz/project_py/machine_learning/mlflow-scikit/mlruns/682921017019269663/c40a3d9b9e9c4d6bbc0e3db317784c48/artifacts
+end_time: 1712501309498
+entry_point_name: ''
+experiment_id: '682921017019269663'
+lifecycle_stage: active
+run_id: c40a3d9b9e9c4d6bbc0e3db317784c48
+run_name: puzzled-bat-534
+run_uuid: c40a3d9b9e9c4d6bbc0e3db317784c48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712501304247
+status: 4
+tags: []
+user_id: fahmiaziz
